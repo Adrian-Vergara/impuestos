@@ -1,0 +1,6 @@
+f:\users\adrian\documentos\visual studio 2013\Projects\Impuestos\Impuestos\bin\Debug\Impuestos.exe.config
+f:\users\adrian\documentos\visual studio 2013\Projects\Impuestos\Impuestos\bin\Debug\Impuestos.exe
+f:\users\adrian\documentos\visual studio 2013\Projects\Impuestos\Impuestos\bin\Debug\Impuestos.pdb
+f:\users\adrian\documentos\visual studio 2013\Projects\Impuestos\Impuestos\obj\Debug\Impuestos.csprojResolveAssemblyReference.cache
+f:\users\adrian\documentos\visual studio 2013\Projects\Impuestos\Impuestos\obj\Debug\Impuestos.exe
+f:\users\adrian\documentos\visual studio 2013\Projects\Impuestos\Impuestos\obj\Debug\Impuestos.pdb
